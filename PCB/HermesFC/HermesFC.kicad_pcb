@@ -818,7 +818,7 @@
 			(pintype "passive")
 			(uuid "db6928f8-97d7-4f83-859f-ee5e7a466a32")
 		)
-		(model "${KIPRJMOD}/models/screwT_2.54.stp"
+		(model "${KIPRJMOD}/3Dmodels/screwT_2.54.stp"
 			(offset
 				(xyz 1.2 0 -0.5)
 			)
@@ -3043,7 +3043,7 @@
 				)
 			)
 		)
-		(model "${KIPRJMOD}/models/MPU-6050.stp"
+		(model "${KIPRJMOD}/3Dmodels/MPU-6050.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4548,7 +4548,7 @@
 			(solder_mask_margin 0.102)
 			(uuid "96d5694c-8af0-499e-a2c5-16fa1231801a")
 		)
-		(model "${KIPRJMOD}/models/TS-1187A-B-A-B.step"
+		(model "${KIPRJMOD}/3Dmodels/TS-1187A-B-A-B.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6928,7 +6928,7 @@
 				)
 			)
 		)
-		(model "${KIPRJMOD}/models/ICM-20948.stp"
+		(model "${KIPRJMOD}/3Dmodels/ICM-20948.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -7437,7 +7437,7 @@
 			(pintype "passive+no_connect")
 			(uuid "5003e8bc-9e11-42a3-a2b4-64865613354b")
 		)
-		(model "${KIPRJMOD}/models/USB_10118193-0001lfc.stp"
+		(model "${KIPRJMOD}/3Dmodels/USB_10118193-0001lfc.stp"
 			(offset
 				(xyz -97.97 3.15 -0.415)
 			)
@@ -8301,6 +8301,17 @@
 			(uuid "3f9c2532-e414-464d-bd79-c6eca70f7859")
 		)
 		(model "${KIPRJMOD}/models/TS-1187A-B-A-B.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/3Dmodels/TS-1187A-B-A-B.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -11849,7 +11860,7 @@
 			)
 		)
 		(property "Value" "500 mA"
-			(at 0 1.43 270)
+			(at 0 1.43 -90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "82bc3c89-8e15-411c-99dc-01e393af41ec")
@@ -17137,7 +17148,7 @@
 			)
 		)
 		(property "Value" "10u"
-			(at 0 1.43 270)
+			(at 0 1.43 -90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "296de324-cfb6-4db2-9dff-dfc6859cdcef")
