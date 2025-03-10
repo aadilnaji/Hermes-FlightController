@@ -19707,7 +19707,7 @@
 			(justify left bottom mirror)
 		)
 	)
-	(gr_text "github.com/Ga1lileo"
+	(gr_text "github.com/aadilnaji"
 		(at 189.225 59.025 0)
 		(layer "B.SilkS")
 		(uuid "74f0ed7d-c3d7-43f5-b7e1-6c644e868e55")
