@@ -43,7 +43,7 @@
 			)
 		)
 		(instances
-			(project "Hermes-FlightController-DFM"
+			(project "HermesFC"
 				(path "/7c1ac307-4d35-4291-88c2-548b52d0f9f3"
 					(page "2")
 				)
@@ -81,7 +81,7 @@
 			)
 		)
 		(instances
-			(project "Hermes-FlightController-DFM"
+			(project "HermesFC"
 				(path "/7c1ac307-4d35-4291-88c2-548b52d0f9f3"
 					(page "3")
 				)
