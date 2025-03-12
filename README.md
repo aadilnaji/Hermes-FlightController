@@ -12,7 +12,7 @@ Check back for updates.
 - **Microcontroller:** STM32F405RGT6
 - **IMU Sensor:** MPU-6050 / ICM-2098
 - **Barometer:** BMP280
-- **ESC Outputs:** 4x PWM channels - to be implemented
+- **ESC Outputs:** 4x PWM channels
 - **Communication Interfaces:** UART, I2C, USB
 
 
@@ -20,7 +20,8 @@ Check back for updates.
 ### **Schematic & PCB Layout**
 ![Schematic1](PCB/Gallery/Schematic-HermesFC-1.png)
 ![Schematic2](PCB/Gallery/Schematic-HermesFC-2.png)
-![PCB Layout](PCB/Gallery/Layers.png)
+![PCB Layout](PCB/Gallery/Layers_front.png)
+![PCB Layout](PCB/Gallery/Layers_back.png)
 
 
 ## **License**

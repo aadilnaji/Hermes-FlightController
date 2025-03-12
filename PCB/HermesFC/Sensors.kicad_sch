@@ -6,9 +6,10 @@
 	(paper "A4")
 	(title_block
 		(title "Sensors")
-		(date "2025-03-02")
-		(rev "v0.2")
+		(date "2025-03-12")
+		(rev "v1.0")
 		(company "Aadil Naji")
+		(comment 1 "HERMES FLIGHT CONTROLER")
 	)
 	(lib_symbols
 		(symbol "Device:C"
@@ -3463,7 +3464,7 @@
 		)
 		(uuid "1c506b2b-4af4-43b5-97dc-dd16e9dc0c88")
 	)
-	(text "2 IMUs are used on this board to test the\nfunctionality. The final design should incorporate \nonly one IMU"
+	(text "2 IMUs are used on this board to test the\nfunctionality. Alternative design should incorporate \nonly one IMU"
 		(exclude_from_sim no)
 		(at 29.972 96.52 0)
 		(effects

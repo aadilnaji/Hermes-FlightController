@@ -6,10 +6,10 @@
 	(paper "A4")
 	(title_block
 		(title "Hermes Flight Controller")
-		(date "2025-03-02")
-		(rev "v0.2")
+		(date "2025-03-12")
+		(rev "v1.0")
 		(company "Aadil Naji")
-		(comment 1 "work-in-progress")
+		(comment 1 "HERMESFLIGHT CONTROLLER V1.0")
 	)
 	(lib_symbols)
 	(sheet

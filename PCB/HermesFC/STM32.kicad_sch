@@ -5,10 +5,11 @@
 	(uuid "dfb13566-dfae-41cd-9967-f1fff5f63d7c")
 	(paper "A4")
 	(title_block
-		(title "MCU")
-		(date "2025-03-02")
-		(rev "v0.2")
+		(title "MCU + Power")
+		(date "2025-03-12")
+		(rev "v1.0")
 		(company "Aadil Naji")
+		(comment 1 "HERMES FLIGHT CONTROLLER")
 	)
 	(lib_symbols
 		(symbol "Connector:Screw_Terminal_01x02"
@@ -8600,7 +8601,7 @@
 		)
 		(uuid "a5a64b9e-1e5b-4b8a-a77e-93f79fa9226f")
 	)
-	(text "GPIO"
+	(text "PWM"
 		(exclude_from_sim no)
 		(at 235.458 137.922 0)
 		(effects
