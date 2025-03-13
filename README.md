@@ -1,6 +1,6 @@
 # **Hermes Flight Controller**
 
-![Project Banner](PCB/Gallery/Hermes-FlightController.png)
+![Project Banner](PCB/Gallery/Hermes-FlightController_stitched.png)
 
 ## **Overview**
 This is a **custom STM32F405 based Flight Controller** designed for drone applications. The PCB is designed in **KiCad**.
