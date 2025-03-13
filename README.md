@@ -20,8 +20,8 @@ Check back for updates.
 ### **Schematic & PCB Layout**
 ![Schematic1](PCB/Gallery/Schematic-HermesFC-1.png)
 ![Schematic2](PCB/Gallery/Schematic-HermesFC-2.png)
-![PCB Layout](PCB/Gallery/Layers_front.png)
-![PCB Layout](PCB/Gallery/Layers_back.png)
+![PCB Layout](PCB/Gallery/Layers_F_Cu.png)
+![PCB Layout](PCB/Gallery/Layers_B-Cu.png)
 
 
 ## **License**
