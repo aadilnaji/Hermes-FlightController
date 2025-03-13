@@ -5,7 +5,7 @@
 ## **Overview**
 This is a **custom STM32F405 based Flight Controller** designed for drone applications. The PCB is designed in **KiCad**.
 
-Currently work-in-progress to build a working prototype.
+Design is done and now it's onto fabricating the PCB and writing the firmware.
 Check back for updates.
 
 ## **Features**
